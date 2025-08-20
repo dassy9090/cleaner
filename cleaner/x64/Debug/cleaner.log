@@ -1,0 +1,56 @@
+﻿  cleaner.cpp
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(17,9): warning C4129: 'M': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(110,9): warning C4129: '/': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(121,14): warning C4129: 'E': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(122,14): warning C4129: 'E': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(123,14): warning C4129: 'E': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(167,9): warning C4129: 'C': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(174,9): warning C4129: 'C': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(175,9): warning C4129: 'C': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(176,9): warning C4129: 'C': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(177,9): warning C4129: 'C': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(178,9): warning C4129: 'C': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(189,9): warning C4129: 'C': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(206,9): warning C4129: 'D': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(213,9): warning C4129: 'D': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(214,9): warning C4129: 'D': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(215,9): warning C4129: 'D': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(216,9): warning C4129: 'D': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(217,9): warning C4129: 'D': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(228,9): warning C4129: 'D': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(245,9): warning C4129: 'E': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(252,9): warning C4129: 'E': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(253,9): warning C4129: 'E': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(254,9): warning C4129: 'E': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(255,9): warning C4129: 'E': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(256,9): warning C4129: 'E': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(267,9): warning C4129: 'E': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(284,9): warning C4129: 'F': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(291,9): warning C4129: 'F': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(292,9): warning C4129: 'F': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(293,9): warning C4129: 'F': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(294,9): warning C4129: 'F': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(295,9): warning C4129: 'F': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(306,9): warning C4129: 'F': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(341,30): warning C4129: '$': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(921,14): warning C4129: 'P': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(921,14): warning C4129: 'E': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(921,14): warning C4129: 'F': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(921,14): warning C4129: 'B': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(921,14): warning C4129: 'W': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(921,14): warning C4129: 'S': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(1176,9): warning C4129: '%': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(1177,9): warning C4129: '%': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(1178,9): warning C4129: '%': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(1179,9): warning C4129: '%': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(1206,9): warning C4129: '%': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(1207,9): warning C4129: '%': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(1208,9): warning C4129: '%': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(1209,9): warning C4129: '%': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(1210,9): warning C4129: '%': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(1231,9): warning C4129: '%': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(1240,9): warning C4129: '%': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\admin\source\repos\cleaner\cleaner.cpp(1243,9): warning C4129: '%': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+  cleaner.vcxproj -> C:\Users\admin\source\repos\cleaner\x64\Debug\cleaner.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.
