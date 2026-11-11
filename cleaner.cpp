@@ -1,4 +1,4 @@
-//StHomeLess#2465
+// code by unemployed 
 #pragma once
 #include <iostream>
 #include <urlmon.h>
@@ -1307,14 +1307,14 @@ int main()
 {
 	ShowConsole();
 	std::thread(Initialize).detach();
+
 	MessageBoxA(MB_OK, "start", "start", MB_ICONINFORMATION);
-	system(XorString("title ELYSIUM"));
-	SetConsoleTitleA("ELYSIUM");
+
+	SetConsoleTitleA("cleaner");
 	MessageBoxA(
-		NULL,
-		"DISCORD SERVER - https://discord.gg/e2e3aynKPU",
-		"INFO",
+		nullptr,
+		"processed",
+		nullptr,
 		MB_OK | MB_ICONINFORMATION
 	);
-	ShellExecuteA(0, "open", "https://discord.gg/e2e3aynKPU", 0, 0, SW_SHOWNORMAL);
 }
